@@ -64,9 +64,6 @@ npm start
 <img width="1920" height="1080" alt="Screenshot (475)" src="https://github.com/user-attachments/assets/0bc51b5e-1d6b-4b78-a588-bc13e6a1fa96" />
 Products
 <img width="1920" height="1080" alt="Screenshot (478)" src="https://github.com/user-attachments/assets/0f8f4ef3-4370-49bb-bc57-89c6b6795d7a" />
-Cart
-![Uploading Screenshot (479).png…]()
-Checkout Form
 <img width="1920" height="1080" alt="Screenshot (480)" src="https://github.com/user-attachments/assets/d0d45de4-30bb-4b07-862c-dc0f44f86ce9" />
 Checkout
 
