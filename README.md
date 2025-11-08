@@ -3,6 +3,19 @@
 A full-stack shopping cart application built as part of an internship assignment for **Vibe Commerce**.  
 The app allows users to browse products, add them to cart, update quantities, remove items, and complete mock checkout using a checkout modal and local SQLite database.
 
+### 🏃‍♂️ How to Run the Project
+
+#### 1. Start the Backend Server
+
+```bash
+cd backend
+npm install       
+nodemon server.js  
+
+cd frontend
+npm install        
+npm start          
+
 ---
 
 ##  Features
@@ -48,11 +61,4 @@ The app allows users to browse products, add them to cart, update quantities, re
 
 ---
 
-### To Run 
-cd backend
-npm install
-nodemon server.js
 
-cd frontend
-npm install
-npm start
